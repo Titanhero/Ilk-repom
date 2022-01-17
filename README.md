@@ -1,0 +1,2 @@
+# Ilk-repom
+Hayırlısı olsun 
